@@ -1,0 +1,84 @@
+---
+---
+
+// Breakpoints
+$large-breakpoint: 64em !default;
+$medium-breakpoint: 42em !default;
+
+// Headers
+$header-heading-color: #402313;
+$header-bg-color: black;
+$header-bg-color-secondary: black;
+
+// Text
+$section-headings-color: #402313;
+$body-text-color: black;
+$body-link-color: #142d72;
+$blockquote-text-color: #424242;
+
+// Code
+$code-bg-color: #fff;
+$code-text-color: #424242;
+
+// Borders
+$border-color: #ac722c;
+$table-border-color: #4f2400;
+$hr-border-color: #fff;
+
+@import "{{ site.theme }}";
+
+@font-face {
+    font-family: "Creative Block";
+    font-weight: normal;
+    src: url("../fonts/CREABBRG.TTF") format("truetype");
+}
+
+@font-face {
+    font-family: "Creative Block";
+    font-weight: bold;
+    src: url("../fonts/CREABBB_.TTF") format("truetype");
+}
+
+body {
+    background-color: #e8c97e;
+}
+
+h1, h2, h3, h4 {
+    font-family: "Creative Block";
+}
+
+.page-header {
+    background-image: url("../bar.webp"), url("../cho-broom.webp");
+    background-position: bottom, 75% 0%;
+    background-repeat: repeat-x, no-repeat;
+    background-size: auto 34px, cover;
+
+    img {
+        max-width: 80%;
+    }
+}
+
+.download {
+    text-align: center;
+}
+
+.btn {
+    color: #4f2400;
+    border-color: #4f2400;
+    background-color: #dfad65;
+
+    &:hover {
+        color: #402313;
+        border-color: #402313;
+    }
+}
+
+div.highlight {
+    background-color: transparent;
+}
+
+.main-content {
+    hr {
+        height: 1px;
+    }
+}

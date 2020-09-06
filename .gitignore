@@ -1,0 +1,21 @@
+# Bundler
+vendor/
+Gemfile.lock
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Other
+*.png~
+*.webp~
+*.tmp
+*.log
+*.bak
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
