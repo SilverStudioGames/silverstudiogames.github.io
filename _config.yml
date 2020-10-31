@@ -3,5 +3,5 @@ theme: jekyll-theme-cayman
 title: "Witch Trainer: Silver"
 description: "A complete rework of Akabur's game, Witch Trainer"
 github: [metadata]
-game_version: "1.39.2"
+game_version: "1.39.3"
 permalink: pretty
