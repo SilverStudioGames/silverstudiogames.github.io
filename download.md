@@ -25,7 +25,7 @@ Before you download anything, please take note of the following:
 - Supported versions: **{{ major_version }}**{% for i in (1..patches) %}, **{{ major_version }}.{{ i }}**{% endfor %}
 - Unpack patch contents in the game directory and overwrite existing files.
 
-<a href="https://mega.nz/file/R9QlkADB#ovcm5Tve5L54YExNLcaeWIoQpqcd2U4yBIwUiRrjZgg" class="btn">Windows, Mac & Linux</a>
+<a href="https://mega.nz/file/JkwgEBBa#TSAKn1apivlPWzykFFxUUsKlTBLKWD36g8cqIpponCk" class="btn">Windows, Mac & Linux</a>
 
 {% endif %}
 
