@@ -2,4 +2,4 @@
 title: Download
 ---
 
-# This page is no longer active, to get latest updates, please go to [www.silverstudiogames.orrg](https://www.silverstudiogames.org)
+# This page is no longer active, to get latest updates, please go to [www.silverstudiogames.org](https://www.silverstudiogames.org)
